@@ -67,7 +67,7 @@ nem os teóricos difíceis, nem a visão clássica ou a filosofia que
 originou este termo. Trata-se de saber que há muita confusão entre uma
 coisa e outra. Que estas confusões estão incorporadas em nós, em nosso
 pensamento, no modo como abordamos a realidade e, inclusive, em
-nosso agir. Trata-se de detectar esse sensocomum que nos domina e
+nosso agir. Trata-se de detectar esse senso-comum que nos domina e
 criar uma atitude metodológica adequada que nos permita purificar
 muitas confusões que a tradição, a escola, a cultura ou a vida nos
 legaram e nós as alimentamos.
@@ -140,12 +140,12 @@ não tem nada que ver com livros ou ideias”. Ou ainda: “Este indivíduo é
 teórico (!), vive nas nuvens da abstração, não é um elemento prático,
 não pisa o chão, não fala das coisas concretas... não vive o dia a
 dia... não fala a linguagem do povo...”, será que não existe algum
-mal-entendido atrás disso? Que equívoco teriam estes lugarescomuns?
+mal-entendido atrás disso? Que equívoco teriam estes lugares-comuns?
 Onde está o mal-entendido que nos leva a confundir teoria com abstração,
 com conhecimento desarticulado da realidade? Por que este verbete nos
 dicionários pode atrapalhar-nos mais que nos ajudar? Como entender a
 teoria em seu verdadeiro significado e extensão
-e com muito menos bla-blá-blá? Em *que* e *onde* reside mesmo o
+e com muito menos blá-blá-blá? Em *que* e *onde* reside mesmo o
 verdadeiro fundamento do ato da teoria?
 
 Antes de responder a todas estas questões e relacionar a teoria com
@@ -283,7 +283,7 @@ Neste sentido *teorizar* para a concepção clássica passa a significar
 quase somente *abstrair*. É por isso que os dicionários em sua grande
 maioria apresentam como significado de teoria a *contemplação*. Um
 exercício abstrato do raciocínio, distante do concreto, do real.
-Teorizar tornase apenas uma arte de trabalhar a mente com a ideia enquanto divorciada de uma realidade mais ampla. A ideia, resultante do
+Teorizar torna-se apenas uma arte de trabalhar a mente com a ideia enquanto divorciada de uma realidade mais ampla. A ideia, resultante do
 ato de abstrair e a ele ligada, enquanto abstrai mentalmente o objeto
 de conhecimento, passa a exercer uma espécie de supremacia sobre o
 real. Não é à toa que Platão diz: “O importante é a ideia.” (*A
@@ -324,7 +324,7 @@ teologia. Aí o problema do conhecimento se amplia para além do
 próprio ato de conhecimento visto isoladamente. Questões que você
 encontra abordadas pela filosofia clássica.
 
-No entanto, é quando se trata da relação homemmundo que o problema
+No entanto, é quando se trata da relação homem-mundo que o problema
 do conhecimento e do consequente ato de teorizar se torna ainda mais
 profundo e complexo que imaginamos. O problema é que a ênfase que a
 filosofia clássica dá tanto ao conhecimento, à razão e ao discurso
@@ -579,7 +579,7 @@ ciência. Ora, discorrer sobre o fenômeno não é um ato separado do ato
 mental do cientista. Da mesma forma, síntese não existe fora da análise
 e vice-versa, nem síntese e análise experimental fora do âmbito da
 análise e síntese formais. Se se chega à afirmação da necessidade e da
-generalidade da relação causaefeito no fenômeno observado, tendo em
+generalidade da relação causa-efeito no fenômeno observado, tendo em
 vista a proclamação de uma lei e suas constantes, este processo deve
 ser completo e não apenas parcial. Portanto, também a Ciência é
 provocadora da unidade. Unidade formal/experimental. Unidade entre
@@ -992,7 +992,7 @@ elaboração teórica que, hoje, sobretudo, passa pelo crivo de uma profunda cr�
 Na verdade não existiu “ciência” entre os gregos. Pelo menos no
 sentido moderno que se dá ao termo e notadamente à sua aplicação às
 ciências experimentais. Apenas uns primeiros rudimentos de ciência, já
-que o modelopadrão de ciência em sentido amplo é a Ciência Moderna.
+que o modelo-padrão de ciência em sentido amplo é a Ciência Moderna.
 A ciência anterior a Galileu, a Newton ou à Revolução Copernicana
 sempre apareceu sob a forma de uma pré-ciência ou de uma
 protociência. Quando muito um saber ou um conjunto de disciplinas
@@ -1003,7 +1003,7 @@ Neste sentido, a primeira diferença a notar é que a Ciência Grega era
 Moderna tem de ser a ciência das medidas (reveja o que falamos sobre a
 matematização). Enquanto numa linguagem aristotélica falaríamos em
 quente/ frio, seco/úmido (qualidades da “phisis” ou natureza), já na
-concepção galiléica (do sábio italiano Galileu Galilei) perguntamos
+concepção galileica (do sábio italiano Galileu Galilei) perguntamos
 sobre o grau de temperaturas. Esta
 é talvez a característica mais marcante da Ciência Moderna com seus
 aparelhos de medir o objeto ou o fenômeno.
@@ -1018,7 +1018,7 @@ falamos sobre funcionalidade).
 A terceira diferença é que a Ciência Grega, por um lado, volta-se para a
 busca da *causa*, mas sem se desligar deste cunho filosófico ou
 metafísico amplo. A Ciência Moderna, por outro lado, na resolução das
-*relações de causaefeito* do fenômeno particular, apenas constrói a
+*relações de causa-efeito* do fenômeno particular, apenas constrói a
 lei geral a partir de uma linguagem simbólica e matematizada (reveja o
 que falamos sobre o caráter seletivo e o caráter aproximativo da
 Ciência Moderna).
@@ -1109,10 +1109,10 @@ de teoria ao âmbito da experimentação. Neste sentido temos, por exemplo:
 -   Para E. Mach as teorias apenas orientam o sábio com economia de
     pensamento.
 
--   Para Henri Poincaré as teorias não são verda-deiras nem falsas, são
+-   Para Henri Poincaré as teorias não são verdadeiras nem falsas, são
     cômodas.
 
--   Para Pierre Dühen as teorias servem apenaspara classificar os fatos
+-   Para Pierre Dühen as teorias servem apenas para classificar os fatos
     e as leis.
 
 -   Hoje se procura uma posição intermediária. Sobretudo quando a
@@ -1150,7 +1150,7 @@ e a elas prestando serviços. Não se faz matemática a não ser para uma
 aplicação ou interpretação de um problema que a natureza reclama. Como
 separar, por exemplo, a matemática da física, da mecânica?
 
-No entanto, se ela não se separa das ciências empíricoformais ela
+No entanto, se ela não se separa das ciências empírico-formais ela
 igualmente não chega ao estágio de tais ciências exatamente por se
 estabelecer no âmbito do formal e por ser uma tautologia (repetição)
 constante. O que a torna distante de uma definição de ciência completa
@@ -1247,7 +1247,6 @@ proclamação de seus resultados de pesquisa. Não cabe a pretensão de
 propor às ciências humanas o mesmo modelo de elaboração teórica das
 ciências empírico-formais (método indutivo) exatamente porque o dado
 novo que surge é o da interpretação. Interpretar, em sentido amplo, já
-
 não é fazer ciência. Mas a interpretação nas ciências humanas não é
 também uma questão tão central, absoluta. Aí está seu problema. A
 questão é que as ciências humanas devem promover um encontro entre a
@@ -1307,7 +1306,7 @@ questão antropológica. Mais que em outras ciências, nas ciências
 humanas está cada vez mais claro que o problema da elaboração da
 teoria não é só questão lógica ou gnoseológica (de teoria do conhecimento). E questão eminentemente antropológica. Vale dizer, as ciências
 humanas mais que outras, refletem a complexidade do ato teórico. Antes
-de mais nada fazemnos ver que sua compreensão se vincula diretamente
+de mais nada fazem-nos ver que sua compreensão se vincula diretamente
 ao fato de o homem, na sua relação com o mundo, ser não só
 o protagonista (elemento central) de toda teoria, enquanto abstração,
 mas também o ser teórico-prático. E o assunto de que vamos ocupar-nos
@@ -1397,7 +1396,6 @@ Mas não vamos aproveitar ao todo a visão teórica das ciências humanas.
 Considero-as ainda imaturas na sua pretensão de estabelecer o discurso
 de sua “vítima”, o homem. Neste sentido, só a História e o progresso
 do
-
 pensamento é que vão dar novos rumos às tentativas de cientificidade,
 relativamente ao conhecimento do homem. E como diz o Pe. Vieira: “Temos
 que ler o futuro nas entranhas das vítimas.” E penetrar nas entranhas
@@ -1405,7 +1403,7 @@ do homem concreto, encarnado, histórico, e vasculhar suas vísceras para
 ver seu futuro, numa satisfatória abordagem teórica, é tarefa que
 nenhuma ciência tem realizado com primazia. Seja por absurda distorção
 do objeto de conhecimento e de sua própria finalidade (caso das ciências
-empíricoformais), seja por deficiência de método (caso das ciências
+empírico-formais), seja por deficiência de método (caso das ciências
 humanas).
 
 ## Unidade teoria e prática na “práxis”
@@ -1726,8 +1724,8 @@ possa parecer, demorei muito tempo para entender, de fato, esta frase
 do maior teórico da Revolução de 1917. Essa frase simplesmente nucleia
 toda nossa discussão em torno da relação teoria/prática. O que
 acontece é que em nosso conhecimento diário e ordinário estamos de tal
-forma imbuídos do sensocomum que nem percebemos a profundidade das
-coisas simples. A simplificação demasiada das coisas pode levarnos ao
+forma imbuídos do senso-comum que nem percebemos a profundidade das
+coisas simples. A simplificação demasiada das coisas pode levar-nos ao
 estado de certa inconsciência ou de “inocência teórica” e representar
 sério entrave à articulação crítica de nossa visão de mundo e de nosso
 ascenso à práxis.
